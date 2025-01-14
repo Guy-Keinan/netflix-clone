@@ -17,7 +17,7 @@ const SearchPage = () => {
 	const handleTabClick = (tab) => {
 		setActiveTab(tab);
 		tab === "movie" ? setContentType("movie") : setContentType("tv");
-		setResults([]);
+		setResults([]);    
 	};
 
 	const handleSearch = async (e) => {
