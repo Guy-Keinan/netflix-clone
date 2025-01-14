@@ -1,0 +1,3 @@
+SZkTY0FZU4CRtZlU
+
+mongodb+srv://gkeinan91:SZkTY0FZU4CRtZlU@cluster0.aat0d.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
